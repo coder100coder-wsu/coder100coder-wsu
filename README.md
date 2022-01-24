@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @coder100coder-wsu
-- 🌱 I’m currently working in Python, Dash, R, SQL, NoSQL
+- 🌱 I’m currently working in Python, Dash, R, SQL, NoSQL, Tableau, PowerBI
 
 <!---
 coder100coder-wsu/coder100coder-wsu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
